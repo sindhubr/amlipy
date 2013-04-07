@@ -1,0 +1,10 @@
+#summary this decides the current algorithm being coded
+
+= Current Algorithms being coded =
+
+1. apriori
+
+
+= Current Algorithms under testing =
+
+None
