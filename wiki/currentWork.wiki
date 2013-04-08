@@ -2,9 +2,10 @@
 
 = Current Algorithms being coded =
 
-1. apriori
+1. copula based analysis
+2. other frequent items finders
 
 
 = Current Algorithms under testing =
 
-None
+1. apriori
