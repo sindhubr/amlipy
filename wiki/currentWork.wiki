@@ -9,3 +9,4 @@
 = Current Algorithms under testing =
 
 1. apriori
+2. oneRule
