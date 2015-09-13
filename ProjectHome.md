@@ -1,0 +1,1 @@
+this is a library for algorithms of machine learning whose implementations in python I could not find for myself. It builds upon the pylab interface.

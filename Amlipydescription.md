@@ -1,0 +1,6 @@
+# Introduction #
+
+I have started this project to create machine learning algorithms for the numpy interface whose implementations I could not find or was not satisfied with.
+
+
+**please feel free to participate, provide feedback or criticize all the stuff in this.**
